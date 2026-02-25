@@ -1,62 +1,60 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Offering": {
+      "Hardware": {
+        "Testing Instruments": {
+          "Portal Testing Instruments": {},
+          "Fixed Testing Instruments": {}
+        },
+        "Accessories": {
+          "Probes and Transducers": {},
+          "Sensors and Detectors": {},
+          "Cables, Connectors, and Mounting Fixtures": {},
+          "Others (Calibration Blocks, Couplants, Penetrants, and Magnetic Media, etc.)": {}
+        }
+      },
+      "Services": {
+        "Inspection Services": {},
+        "Calibration and Verification Services": {},
+        "Training and Certification Services": {}
+      },
+      "Software (Acquisition, Analysis, Reporting, Asset Data Platforms, etc.)": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By NDT Method": {
+      "Ultrasonic Testing (UT)": {},
+      "Radiographic Testing (RT) (Xray/gamma)": {},
+      "Optical Coherence Tomography (OCT)": {},
+      "Computed Tomography (Industrial CT)": {},
+      "Eddy Current Testing (ECT)": {},
+      "Magnetic Flux Leakage (MFL)": {},
+      "Others (Magnetic Particle Testing (MT), Liquid Penetrant Testing (PT), Infrared Thermography (IRT), etc.)": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Inspection Object": {
+      "Welds & Joints": {},
+      "Castings & Forgings": {},
+      "Pipelines & Piping": {},
+      "Pressure Vessels & Tanks": {},
+      "Structural Components (Steel/Concrete Composites)": {},
+      "Rotating Equipment (Turbines, Shafts)": {},
+      "Composites (CFRP/GFRP)": {},
+      "Electronics and PCBs & Micro-features": {}
     },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By Deployment Environment": {
+      "In-line and In-process (Production QA)": {},
+      "On-site Field Inspection (In-service Assets)": {},
+      "Laboratory and Metrology Center": {}
     },
     "By Region": {
-      "North America": {
-        "U.S.": {},
-        "Canada": {}
-      },
-      "Europe": {
-        "U.K.": {},
-        "Germany": {},
-        "Italy": {},
-        "France": {},
-        "Spain": {},
-        "Russia": {},
-        "Rest of Europe": {}
-      },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
-      },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
+      "East Africa": {
+        "Kenya": {},
+        "Ethiopia": {},
+        "Tanzania": {},
+        "Uganda": {},
+        "Sudan": {},
+        "Madagascar": {},
+        "Mauritius": {},
+        "Rwanda": {},
+        "Rest of East African Countries": {}
       }
     }
   }
